@@ -174,7 +174,7 @@ def show():
                     pass
 
 def generate_csv_output(results, output_dir):
-    """Generate CSV output in the specified format."""
+    """Generate CSV output in the right format"""
     csv_data = []
     
     for result in results:
